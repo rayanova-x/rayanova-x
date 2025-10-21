@@ -2,7 +2,7 @@
 # 👋 Hi, I'm rayanova-x
 
 I'm an **ML Engineer** passionate about leveraging AI to build intelligent systems that make a real-world impact.  
-Currently, I'm focused on developing **recommender systems** and applying AI to solve complex **supply chain** challenges.
+Currently, I'm focused on developing AI-driven solutions in the retail domain, with key emphasis on personalized customer experiences, demand forecasting, inventory optimization, and dynamic pricing strategies.
 
 ---
 
